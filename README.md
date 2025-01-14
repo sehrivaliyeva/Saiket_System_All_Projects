@@ -10,7 +10,7 @@ Exception Handling
 
 
 
-                                                                              Temperature Converter
+                                                                              Temperature Converter 
 Description:
 
 Create a temperature converter that can convert between Celsius and Fahrenheit, with the option for users to choose input and output scales. The application should implement conversion formulas and display results clearly. This task enhances your Java programming skills while involving mathematical operations and data manipulation.
