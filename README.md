@@ -1,8 +1,8 @@
- Calculator Application
+                                                                                   Calculator Application
 Description:
 Develop a basic calculator application that allows users to perform arithmetic operations. Implement a user-friendly interface to select operations and input numbers. The application should also handle edge cases, such as division by zero, using exception handling. This task will help reinforce your understanding of fundamental Java concepts, such as methods and conditionals.
-Skills:
 
+Skills:
 Core Java Concepts (Methods, Conditionals)
 User Input Handling
 Exception Handling
